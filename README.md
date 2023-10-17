@@ -1,2 +1,2 @@
 # Big-data-analytics-project
-Coming soon...
+Pyspark and Horovod framework
